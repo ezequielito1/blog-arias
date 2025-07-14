@@ -17,3 +17,66 @@ body {
     background-color: #ff101f;
     color: #333;
 }
+
+.main {
+    margin: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: #ff101f solid 3px;
+}
+
+.p {
+    margin: 10px;
+}
+
+.h1 {
+    margin: 5px;
+}
+
+.h3 {
+    margin: 3px;
+}
+
+.p2 {
+    margin: 5px;
+}
+
+.Rutinas {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.row {
+    display: flex;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 10px 10px 10px;
+    border: #ff101f solid 2px;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.h2 {
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+    background-color: #ff101f;
+    color: #333;
+}
