@@ -1,0 +1,29 @@
+.rutinasCard{
+    width: 33%;
+    padding: 10px;
+
+    display: flex;
+    flex-direction: column;
+    margin: 20px 20px 20px 20px;
+    border:1px solid red;
+    justify-content: center;
+    align-items: center;
+}
+
+.textoInfo{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    color: red;
+    margin: 20px;
+    text-align: center; align-self: center;
+    font-size: large;
+    background-color: black;
+    border-radius: 25px;
+    width: fit-content;
+    padding: 5px 30px;
+
+}
+
+.Rutinas{
+    display: flex;
+    flex-direction: column;
+}
